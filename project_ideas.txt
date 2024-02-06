@@ -1,3 +1,18 @@
 Fill in Ideas for Analysis Here! :)
+
+
 Is it worth growing a pokemon that grows slower? Growth rate vs. Max Power for each pokemon
+
+
+Kian's Ideas:
+	Is there a certain pokemon type or move type that has the highest damage attacks?
+	
+	does pokemon weight relate to the health points of a pokemon?
+		(pearson correlation test, one population over two attributes)
+	
+	do first or second evolutions of a certain pokemon health/attack ratio
+		(T test, two populations over the same attribute)
+
+	
+	
 
