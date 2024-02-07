@@ -2,7 +2,8 @@ Fill in Ideas for Analysis Here! :)
 
 
 Is it worth growing a pokemon that grows slower? Growth rate vs. Max Power for each pokemon
-
+Do rarely seen pokemon actually perform stronger in batter? Max Power vs. encounter rate
+Are certain habitats better for finding stronger pokemon? Habitats vs. Max Power average for all pokemon in habitat (we will find the strongest habitat ever!!)
 
 Kian's Ideas:
 	Is there a certain pokemon type or move type that has the highest damage attacks?
