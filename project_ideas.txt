@@ -14,6 +14,14 @@ Kian's Ideas:
 	do first or second evolutions of a certain pokemon health/attack ratio
 		(T test, two populations over the same attribute)
 
+
+Logan's Ideas:
+	Compare and contrast the most and possibly least common environments.
+	see most common types of the two
+	see which of the two contains stronger pokemon overall
+	look at times of day (I know this affects ghost/dark types but maybe theres more?)
+	Best berry/item's across games
+
 	
 	
 
