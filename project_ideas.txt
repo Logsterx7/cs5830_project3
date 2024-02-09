@@ -23,5 +23,21 @@ Logan's Ideas:
 	Best berry/item's across games
 
 	
+Analysis Structure:
+	Driving Question:
+		do first or second evolutions of a certain pokemon have a better
+		health/attack ratio
+
+	Hypothesis:
+		first evoliution pokemon will have a better attack/health ratio
+
+	Analyis: 
+		do the analysis
+
+	Results: 
+		Our thoughts were correct/incorrect	
+
+
 	
+
 
